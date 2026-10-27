@@ -1,0 +1,31 @@
+# Output
+Convertiti/
+*.webp
+*.png
+*.jpg
+*.jpeg
+
+# Log
+*.log
+image_converter_*.log
+
+# FFmpeg
+ffmpeg.exe
+ffprobe.exe
+ffplay.exe
+ffmpeg-*.zip
+tools/
+
+# File temporanei
+*.tmp
+*.zip
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
